@@ -8,3 +8,4 @@ Link: <a href="https://www.figma.com/proto/mUMM6dHz6tk76JA2b63jE8/Untitled?node-
 
 [Link para o Figma](https://www.figma.com/proto/mUMM6dHz6tk76JA2b63jE8/Untitled?node-id=4-27&node-type=frame&t=YExnQq3p7uI4z0n8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A27)
 
+<script> document.querySelectorAll('a').forEach(link => { link.setAttribute('target', '_blank'); }); </script>
