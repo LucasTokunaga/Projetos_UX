@@ -2,7 +2,7 @@
 
 Os projetos presentes aqui foram feitos para estudo na área de UX/UI, utilizando o Figma como ferramenta de prototipação.
 
-1º Projeto: Portfólio de Front-End
+<b>1º Projeto:</b> Portfólio de Front-End
 <br>
 <br>
 Descrição: Uma das primeiras experiências com design de interfaces utilizando a ferramenta Figma. O projeto me permitiu explorar os fundamentos do UX/UI, como hierarquia visual, tipografia e layout. Apesar da simplicidade, o portfólio foi fundamental para consolidar meus conhecimentos e desenvolver um olhar crítico para o design.
