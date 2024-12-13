@@ -23,7 +23,7 @@ Os projetos presentes aqui foram feitos para estudo na área de UX/UI, utilizand
 <b>3º Projeto:</b> Aether (Site de Perfumes)
 <br>
 <br>
-<b>Descrição:</b> Estou desenvolvendo este projeto para fins de estudo, utilizando o Figma para criar um site de perfumes. Realizei todas as interações principais para uma melhor apresentação e utilizei técnicas de design para aprimorar a experiência visual. Na escolha das cores, optei por uma paleta sofisticada que evoca elegância, características importantes para o mercado de perfumes. As cores foram selecionadas para transmitir diferentes emoções e proporcionar uma navegação agradável e envolvente.
+<b>Descrição:</b> Estou desenvolvendo este projeto para fins de estudo, utilizando o Figma para criar um site de perfumes. Realizei todas as interações principais para uma melhor apresentação e utilizei técnicas de design para aprimorar a experiência visual. Na escolha das cores, optei por uma paleta sofisticada que evoca elegância e luxo, características importantes para o mercado de perfumes. As cores foram selecionadas para transmitir diferentes emoções e proporcionar uma navegação agradável e envolvente.
 <br>
 <b>Link:</b> <a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Clique aqui</a>
 
