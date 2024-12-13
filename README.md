@@ -18,6 +18,8 @@ Os projetos presentes aqui foram feitos para estudo na área de UX/UI, utilizand
 <br>
 <b>Link:</b> <a href="https://www.figma.com/design/He72ByRurlefPL3lE00mJC/Fatec-Remember-(Atualizado)?node-id=1040-20&node-type=canvas&t=MmY1HVHm7BoHlAfh-0">Clique aqui</a>
 <br>
+Apresentação do Projeto: <a href="https://www.linkedin.com/posts/bianca-melar%C3%A9-ba1a89241_hoje-compartilho-com-voc%C3%AAs-o-projeto-que-ugcPost-7261768254614892544-98_E?utm_source=share&utm_medium=member_desktop">LinkedIn</a>
+<br>
 <br>
 <br>
 <b>3º Projeto:</b> Aether - Site de Perfumes (2024)
@@ -26,5 +28,6 @@ Os projetos presentes aqui foram feitos para estudo na área de UX/UI, utilizand
 <b>Descrição:</b> Estou desenvolvendo este projeto para fins de estudo, utilizando o Figma para criar um site de perfumes. Realizei todas as interações principais para uma melhor apresentação e utilizei técnicas de design para aprimorar a experiência visual. Na escolha das cores, optei por uma paleta sofisticada que evoca elegância e luxo, características importantes para o mercado de perfumes. As cores foram selecionadas para transmitir diferentes emoções e proporcionar uma navegação agradável e envolvente. 
 <br>
 <b>Link:</b> <a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Clique aqui</a>
+
 
 
