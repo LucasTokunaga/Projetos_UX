@@ -45,6 +45,24 @@ Destaques:<br>
 ✅ Exploração de conceitos de UI para um layout intuitivo e elegante.<br>
 <br>
 <a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Acesse o projeto aqui</a> - Protótipo ainda em construção.
+<br>
+<br>
+<br>
+<b>Projeto 4 – RecoverFit (2025)</b>
+<br>
+<br>
+📌 Objetivo: Criar um aplicativo focado em recuperação muscular e bem-estar pós-treino, oferecendo uma experiência personalizada para otimizar o descanso e a recuperação.<br>
+<br>
+💡 Contexto: Desenvolvido como parte do curso de Figma “Do Zero ao Especialista”, o projeto começou com a ideia de criar uma solução para indivíduos que buscam melhorar sua recuperação após treinos intensos. Adaptado com base no aprendizado de UX/UI, o app foi desenhado para fornecer recomendações de exercícios de recuperação, nutrição, hidratação e outras práticas de bem-estar.
+<br>
+📚 Principais aprendizados: Auto-layout, componentização e variações, constraints, interações, Color Styles e Style Guide, Design System, tipografia, métodos de espaçamento e
+local variables (Primary e Tokens).
+<br><br>
+Destaques:<br>
+✅ Criação de uma interface intuitiva e layout centrado no usuário para promover recuperação muscular.<br>
+✅ Desenvolvimento de recomendações personalizadas com base em dados de recuperação e histórico de treino.<br>
+✅ Aprendizado na integração de design com funcionalidades, priorizando uma experiência simples, mas completa.<br>
+✅ Prototipagem interativa no Figma para simular interações reais e otimizar a usabilidade.
 
 
 
