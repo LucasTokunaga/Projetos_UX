@@ -54,7 +54,7 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 <br>
 <br>
 <b>Descrição:</b> <br>
-📌  <b>Objetivo:</b> Criar um aplicativo focado em recuperação muscular e bem-estar pós-treino, oferecendo uma experiência personalizada para otimizar o descanso e a recuperação.<br>
+📌  <b>Objetivo:</b> Criar um aplicativo focado em recuperação muscular e bem-estar pós-treino, oferecendo uma experiência personalizada para otimizar o descanso e a recuperação.
 <br>
 💡  <b>Contexto:</b> Desenvolvido como parte do curso de Figma “Do Zero ao Especialista”, o projeto começou com a ideia de criar uma solução para indivíduos que buscam melhorar sua recuperação após treinos intensos. Adaptado com base no aprendizado de UX/UI, o app foi desenhado para fornecer recomendações de exercícios de recuperação, nutrição, hidratação e outras práticas de bem-estar.
 <br>
@@ -62,10 +62,11 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 local variables (Primary e Tokens).
 <br><br>
  <b>Destaques:</b><br>
-✅ Criação de uma interface intuitiva e layout centrado no usuário para promover recuperação muscular.<br>
-✅ Desenvolvimento de recomendações personalizadas com base em dados de recuperação e histórico de treino.<br>
-✅ Aprendizado na integração de design com funcionalidades, priorizando uma experiência simples, mas completa.<br>
-✅ Prototipagem interativa no Figma para simular interações reais e otimizar a usabilidade.
+✅ Aplicação avançada de Auto-layout e componentização para otimização e escalabilidade do design.
+✅ Criação de um Design System, garantindo consistência visual e funcional em todas as telas.
+✅ Implementação de interações e animações no Figma para melhorar a experiência do usuário e simular um fluxo real.
+✅ Uso de local variables e tokens para garantir a consistência das cores e elementos visuais em todo o app.
+✅ Estruturação cuidadosa de tipografia e hierarquia visual, promovendo uma navegação intuitiva e clara.
 
 
 
