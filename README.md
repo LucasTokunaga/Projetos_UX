@@ -19,8 +19,9 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 <b>Projeto 2 – Remember (2023-2024)</b>
 <br>
 <br>
+<b>Descrição:</b> <br>
 📌 <b>Objetivo:</b> Desenvolver um aplicativo mobile para gerenciamento de tarefas e controle financeiro.<br>
-💡 <b>Contexto:</b>Projeto acadêmico na disciplina de Engenharia de Software II, evoluindo para Trabalho de Conclusão de Curso (TCC).<br>
+💡 <b>Contexto:</b> Projeto acadêmico na disciplina de Engenharia de Software II, evoluindo para Trabalho de Conclusão de Curso (TCC).<br>
 📚 <b>Principais aprendizados:</b> Experiência em trabalho colaborativo, pesquisa e validação de funcionalidades, construção de wireframes e apresentação do projeto.<br><br>
 <b>Destaques: </b><br>
 ✅ Criação de protótipos mobile e desktop no Figma.<br>
@@ -37,8 +38,9 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 <b>Projeto 3 – Aether: Site de Perfumes (2024)</b>
 <br>
 <br>
+<b>Descrição:</b> <br>
 📌  <b>Objetivo:</b> Criar um e-commerce para perfumes com foco em experiência visual e interatividade. <br>
-📚  <b>Principais aprendizados:</b>Aprofundamento no uso de protótipos interativos, aprendizado em paleta de cores e design emocional, e foco na usabilidade de e-commerce. <br><br>
+📚  <b>Principais aprendizados:</b> Aprofundamento no uso de protótipos interativos, aprendizado em paleta de cores e design emocional, e foco na usabilidade de e-commerce. <br><br>
  <b>Destaques:</b><br>
 ✅ Prototipagem interativa para simular a experiência real do usuário.<br>
 ✅ Aplicação de técnicas de design emocional e paleta de cores sofisticada.<br>
@@ -51,6 +53,7 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 <b>Projeto 4 – RecoverFit (2025)</b>
 <br>
 <br>
+<b>Descrição:</b> <br>
 📌  <b>Objetivo:</b> Criar um aplicativo focado em recuperação muscular e bem-estar pós-treino, oferecendo uma experiência personalizada para otimizar o descanso e a recuperação.<br>
 <br>
 💡  <b>Contexto:</b> Desenvolvido como parte do curso de Figma “Do Zero ao Especialista”, o projeto começou com a ideia de criar uma solução para indivíduos que buscam melhorar sua recuperação após treinos intensos. Adaptado com base no aprendizado de UX/UI, o app foi desenhado para fornecer recomendações de exercícios de recuperação, nutrição, hidratação e outras práticas de bem-estar.
