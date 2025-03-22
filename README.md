@@ -1,4 +1,4 @@
-# Portfólio de UX/UI – Lucas Tokunaga da Silva
+# Portfólio de UX/UI – Lucas Tokunaga da Silva (em construção)
 
 Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI, utilizando o Figma como principal ferramenta de prototipação. Cada projeto reflete minha evolução no design de interfaces, explorando usabilidade, hierarquia visual e interatividade.
 
