@@ -37,12 +37,12 @@ Obs: Acesse o LinkedIn para visualizar a documentação e repositórios do GitHu
 <b>Projeto 3 – Aether: Site de Perfumes (2024)</b>
 <br>
 <br>
-📌 Objetivo: Criar um e-commerce para perfumes com foco em experiência visual e interatividade. <br> <br>
-📚 Principais aprendizados: Aprofundamento no uso de protótipos interativos, aprendizado em paleta de cores e design emocional, e foco na usabilidade de e-commerce. 
-Destaques:
-✅ Prototipagem interativa para simular a experiência real do usuário.
-✅ Aplicação de técnicas de design emocional e paleta de cores sofisticada.
-✅ Exploração de conceitos de UI para um layout intuitivo e elegante.
+📌 Objetivo: Criar um e-commerce para perfumes com foco em experiência visual e interatividade. <br>
+📚 Principais aprendizados: Aprofundamento no uso de protótipos interativos, aprendizado em paleta de cores e design emocional, e foco na usabilidade de e-commerce. <br><br>
+Destaques:<br>
+✅ Prototipagem interativa para simular a experiência real do usuário.<br>
+✅ Aplicação de técnicas de design emocional e paleta de cores sofisticada.<br>
+✅ Exploração de conceitos de UI para um layout intuitivo e elegante.<br>
 <br>
 <a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Acesse o projeto aqui</a>
 
