@@ -44,7 +44,7 @@ Destaques:<br>
 ✅ Aplicação de técnicas de design emocional e paleta de cores sofisticada.<br>
 ✅ Exploração de conceitos de UI para um layout intuitivo e elegante.<br>
 <br>
-<a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Acesse o projeto aqui</a>
+<a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Acesse o projeto aqui</a> - Protótipo ainda em construção.
 
 
 
