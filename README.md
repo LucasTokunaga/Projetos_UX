@@ -7,8 +7,8 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 <br>
 <b>Descrição:</b> <br>
 📌 Objetivo: Criar um portfólio digital para estudos iniciais de UX/UI.<br>
-📌 Principais aprendizados: Hierarquia visual, tipografia e estruturação de layouts.<br>
-📌 Destaques:<br>
+Principais aprendizados: Hierarquia visual, tipografia e estruturação de layouts.<br>
+Destaques:<br>
 ✅ Primeira experiência prática com Figma.<br>
 ✅ Aplicação de conceitos básicos de design responsivo.<br>
 ✅ Desenvolvimento de um olhar crítico para UX/UI.<br>
