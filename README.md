@@ -2,7 +2,7 @@
 
 Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI, utilizando o Figma como principal ferramenta de prototipação. Cada projeto reflete minha evolução no design de interfaces, explorando usabilidade, hierarquia visual e interatividade.
 
-<b> Projeto 1 – Portfólio de Front-End (2024) </b>
+<b> Projeto 1 – Portfólio de Front-End (2023) </b>
 <br>
 <br>
 <b>Descrição:</b> <br>
@@ -27,7 +27,7 @@ Destaques:<br>
 ✅ Foco na usabilidade para organização de tarefas e planejamento financeiro.<br>
 ✅ Aprendizado em trabalho colaborativo e apresentação de projetos.<br>
 <br>
-<b>Link:</b> <a href="https://www.figma.com/design/He72ByRurlefPL3lE00mJC/Fatec-Remember-(Atualizado)?node-id=1040-20&node-type=canvas&t=MmY1HVHm7BoHlAfh-0">Clique aqui</a>
+<a href="https://www.figma.com/design/He72ByRurlefPL3lE00mJC/Fatec-Remember-(Atualizado)?node-id=1040-20&node-type=canvas&t=MmY1HVHm7BoHlAfh-0">Acesse o projeto aqui</a>
 <br>
 Apresentação do Projeto: <a href="https://www.linkedin.com/posts/bianca-melar%C3%A9-ba1a89241_hoje-compartilho-com-voc%C3%AAs-o-projeto-que-ugcPost-7261768254614892544-98_E?utm_source=share&utm_medium=member_desktop">LinkedIn</a>
 <br>
@@ -36,9 +36,14 @@ Apresentação do Projeto: <a href="https://www.linkedin.com/posts/bianca-melar%
 <b>Projeto 3 – Aether: Site de Perfumes (2024)</b>
 <br>
 <br>
-<b>Descrição:</b> Estou desenvolvendo este projeto para fins de estudo, utilizando o Figma para criar um site de perfumes. Realizei todas as interações principais para uma melhor apresentação e utilizei técnicas de design para aprimorar a experiência visual. Na escolha das cores, optei por uma paleta sofisticada que evoca elegância e luxo, características importantes para o mercado de perfumes. As cores foram selecionadas para transmitir diferentes emoções e proporcionar uma navegação agradável e envolvente. 
+📌 Objetivo: Criar um e-commerce para perfumes com foco em experiência visual e interatividade. <br> <br>
+📚 Principais aprendizados: Aprofundamento no uso de protótipos interativos, aprendizado em paleta de cores e design emocional, e foco na usabilidade de e-commerce. 
+Destaques:
+✅ Prototipagem interativa para simular a experiência real do usuário.
+✅ Aplicação de técnicas de design emocional e paleta de cores sofisticada.
+✅ Exploração de conceitos de UI para um layout intuitivo e elegante.
 <br>
-<b>Link:</b> <a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Clique aqui</a>
+<a href="https://www.figma.com/design/GhjKh71KfZ38sKPjwUOrvV/Aether?t=qM012Bv48LkhIhZU-0">Acesse o projeto aqui</a>
 
 
 
