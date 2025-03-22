@@ -2,7 +2,7 @@
 
 Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI, utilizando o Figma como principal ferramenta de prototipação. Cada projeto reflete minha evolução no design de interfaces, explorando usabilidade, hierarquia visual e interatividade.
 
-<b>1º Projeto:</b> Portfólio de Front-End (2024)
+<b> Projeto 1 – Portfólio de Front-End (2024) </b>
 <br>
 <br>
 <b>Descrição:</b> <br>
@@ -16,10 +16,16 @@ Destaques:<br>
 <br>
 <br>
 <br>
-<b>2º Projeto:</b> Remember (2023 e 2024)
+<b>Projeto 2 – Remember (2023-2024)</b>
 <br>
 <br>
-<b>Descrição:</b> Este projeto foi desenvolvido para a disciplina de Engenharia de Software II, onde o Figma foi apresentado a nós. Realizei-o em grupo, focando na criação de uma aplicação inicialmente mobile para gerenciamento de tarefas com diversas funcionalidades. O protótipo foi utilizado para apresentar nosso projeto, que mais tarde se tornou nosso Trabalho de Conclusão de Curso (TCC). O aplicativo, chamado Remember, oferece gerenciamento de tarefas e controle financeiro. As telas do TCC foram projetadas para desktop. Para esse trabalho não foi preciso a utilização de interações.
+📌 Objetivo: Desenvolver um aplicativo mobile para gerenciamento de tarefas e controle financeiro.<br>
+💡 Contexto: Projeto acadêmico na disciplina de Engenharia de Software II, evoluindo para Trabalho de Conclusão de Curso (TCC).<br>
+📚 Principais aprendizados: Experiência em trabalho colaborativo, pesquisa e validação de funcionalidades, construção de wireframes e apresentação do projeto.<br><br>
+Destaques:<br>
+✅ Criação de protótipos mobile e desktop no Figma.<br>
+✅ Foco na usabilidade para organização de tarefas e planejamento financeiro.<br>
+✅ Aprendizado em trabalho colaborativo e apresentação de projetos.<br>
 <br>
 <b>Link:</b> <a href="https://www.figma.com/design/He72ByRurlefPL3lE00mJC/Fatec-Remember-(Atualizado)?node-id=1040-20&node-type=canvas&t=MmY1HVHm7BoHlAfh-0">Clique aqui</a>
 <br>
@@ -27,7 +33,7 @@ Apresentação do Projeto: <a href="https://www.linkedin.com/posts/bianca-melar%
 <br>
 <br>
 <br>
-<b>3º Projeto:</b> Aether - Site de Perfumes (2024)
+<b>Projeto 3 – Aether: Site de Perfumes (2024)</b>
 <br>
 <br>
 <b>Descrição:</b> Estou desenvolvendo este projeto para fins de estudo, utilizando o Figma para criar um site de perfumes. Realizei todas as interações principais para uma melhor apresentação e utilizei técnicas de design para aprimorar a experiência visual. Na escolha das cores, optei por uma paleta sofisticada que evoca elegância e luxo, características importantes para o mercado de perfumes. As cores foram selecionadas para transmitir diferentes emoções e proporcionar uma navegação agradável e envolvente. 
