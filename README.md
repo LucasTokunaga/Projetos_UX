@@ -12,7 +12,7 @@ Destaques:<br>
 ✅ Primeira experiência prática com Figma.<br>
 ✅ Aplicação de conceitos básicos de design responsivo.<br>
 ✅ Desenvolvimento de um olhar crítico para UX/UI.<br>
-<b>Link:</b> <a href="https://www.figma.com/design/mUMM6dHz6tk76JA2b63jE8/Portf%C3%B3lio---Prog.-WEB?node-id=0-1&node-type=canvas&t=qM012Bv48LkhIhZU-0">Clique aqui</a>
+<a href="https://www.figma.com/design/mUMM6dHz6tk76JA2b63jE8/Portf%C3%B3lio---Prog.-WEB?node-id=0-1&node-type=canvas&t=qM012Bv48LkhIhZU-0">Acesse o projeto aqui</a>
 <br>
 <br>
 <br>
