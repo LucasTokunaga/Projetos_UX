@@ -66,7 +66,7 @@ local variables (Primary e Tokens).
 ✅ Criação de um Design System, garantindo consistência visual e funcional em todas as telas.
 ✅ Implementação de interações e animações no Figma para melhorar a experiência do usuário e simular um fluxo real.
 ✅ Uso de local variables e tokens para garantir a consistência das cores e elementos visuais em todo o app.
-✅ Estruturação cuidadosa de tipografia e hierarquia visual, promovendo uma navegação intuitiva e clara.
-
-
+✅ Estruturação cuidadosa de tipografia e hierarquia visual, promovendo uma navegação intuitiva e clara.<br>
+<br>
+<a href="https://www.figma.com/design/MjRtScQHxzK8uDk74wellz/RecoverFit?node-id=0-1&p=f&t=TCf2cmW4oU1RDaAN-0">Acesse o projeto aqui</a> - Protótipo ainda em construção.
 
