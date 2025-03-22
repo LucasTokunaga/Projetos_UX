@@ -8,7 +8,7 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 <b>Descrição:</b> <br>
 📌 Objetivo: Criar um portfólio digital para estudos iniciais de UX/UI.<br>
 📚 Principais aprendizados: Hierarquia visual, tipografia e estruturação de layouts.<br><br>
-Destaques:<br>
+ <b>Destaques:</b><br>
 ✅ Primeira experiência prática com Figma.<br>
 ✅ Aplicação de conceitos básicos de design responsivo.<br>
 ✅ Desenvolvimento de um olhar crítico para UX/UI.<br>
@@ -20,9 +20,9 @@ Destaques:<br>
 <br>
 <br>
 📌 <b>Objetivo:</b> Desenvolver um aplicativo mobile para gerenciamento de tarefas e controle financeiro.<br>
-💡  <b>Contexto:</b>Projeto acadêmico na disciplina de Engenharia de Software II, evoluindo para Trabalho de Conclusão de Curso (TCC).<br>
-📚  <b>Principais aprendizados:</b> Experiência em trabalho colaborativo, pesquisa e validação de funcionalidades, construção de wireframes e apresentação do projeto.<br><br>
- <b>Destaques: </b><br>
+💡 <b>Contexto:</b>Projeto acadêmico na disciplina de Engenharia de Software II, evoluindo para Trabalho de Conclusão de Curso (TCC).<br>
+📚 <b>Principais aprendizados:</b> Experiência em trabalho colaborativo, pesquisa e validação de funcionalidades, construção de wireframes e apresentação do projeto.<br><br>
+<b>Destaques: </b><br>
 ✅ Criação de protótipos mobile e desktop no Figma.<br>
 ✅ Foco na usabilidade para organização de tarefas e planejamento financeiro.<br>
 ✅ Aprendizado em trabalho colaborativo e apresentação de projetos.<br>
