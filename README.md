@@ -1,11 +1,18 @@
-# Portfólio de Projetos
+# Portfólio de UX/UI – Lucas Tokunaga da Silva
 
-Os projetos presentes aqui foram feitos para estudo na área de UX/UI, utilizando o Figma como ferramenta de prototipação.
+Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI, utilizando o Figma como principal ferramenta de prototipação. Cada projeto reflete minha evolução no design de interfaces, explorando usabilidade, hierarquia visual e interatividade.
 
 <b>1º Projeto:</b> Portfólio de Front-End (2024)
 <br>
 <br>
-<b>Descrição:</b> Uma das primeiras experiências com design de interfaces utilizando a ferramenta Figma. O projeto me permitiu explorar os fundamentos do UX/UI, como hierarquia visual, tipografia e layout. Apesar da simplicidade, o portfólio foi fundamental para consolidar meus conhecimentos e desenvolver um olhar crítico para o design.
+<b>Descrição:</b> 
+📌 Objetivo: Criar um portfólio digital para estudos iniciais de UX/UI.
+📌 Principais aprendizados: Hierarquia visual, tipografia e estruturação de layouts.
+📌 Destaques:
+✅ Primeira experiência prática com Figma.
+✅ Aplicação de conceitos básicos de design responsivo.
+✅ Desenvolvimento de um olhar crítico para UX/UI.
+Uma das primeiras experiências com design de interfaces utilizando a ferramenta Figma. O projeto me permitiu explorar os fundamentos do UX/UI, como hierarquia visual, tipografia e layout. Apesar da simplicidade, o portfólio foi fundamental para consolidar meus conhecimentos e desenvolver um olhar crítico para o design.
 <br>
 <b>Link:</b> <a href="https://www.figma.com/design/mUMM6dHz6tk76JA2b63jE8/Portf%C3%B3lio---Prog.-WEB?node-id=0-1&node-type=canvas&t=qM012Bv48LkhIhZU-0">Clique aqui</a>
 <br>
