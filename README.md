@@ -2,7 +2,7 @@
 
 Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI, utilizando o Figma como principal ferramenta de prototipação. Cada projeto reflete minha evolução no design de interfaces, explorando usabilidade, hierarquia visual e interatividade.
 
-Utilizando momentaneamente o GitHub para a centralização dos conteúdos.
+Obs: Utilizando momentaneamente o GitHub para a centralização dos conteúdos.
 
 <b> Projeto 1 – Portfólio de Front-End (2023) </b>
 <br>
