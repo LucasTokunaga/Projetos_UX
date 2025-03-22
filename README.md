@@ -12,8 +12,6 @@ Destaques:<br>
 ✅ Primeira experiência prática com Figma.<br>
 ✅ Aplicação de conceitos básicos de design responsivo.<br>
 ✅ Desenvolvimento de um olhar crítico para UX/UI.<br>
-Uma das primeiras experiências com design de interfaces utilizando a ferramenta Figma. O projeto me permitiu explorar os fundamentos do UX/UI, como hierarquia visual, tipografia e layout. Apesar da simplicidade, o portfólio foi fundamental para consolidar meus conhecimentos e desenvolver um olhar crítico para o design.
-<br>
 <b>Link:</b> <a href="https://www.figma.com/design/mUMM6dHz6tk76JA2b63jE8/Portf%C3%B3lio---Prog.-WEB?node-id=0-1&node-type=canvas&t=qM012Bv48LkhIhZU-0">Clique aqui</a>
 <br>
 <br>
