@@ -29,7 +29,7 @@ Destaques:<br>
 <br>
 <a href="https://www.figma.com/design/He72ByRurlefPL3lE00mJC/Fatec-Remember-(Atualizado)?node-id=1040-20&node-type=canvas&t=MmY1HVHm7BoHlAfh-0">Acesse o projeto aqui</a>
 <br><br>
-Apresentação do Projeto: <a href="https://www.linkedin.com/posts/bianca-melar%C3%A9-ba1a89241_hoje-compartilho-com-voc%C3%AAs-o-projeto-que-ugcPost-7261768254614892544-98_E?utm_source=share&utm_medium=member_desktop">LinkedIn</a><br>
+Apresentação do Projeto: <a href="https://www.linkedin.com/posts/bianca-melar%C3%A9-ba1a89241_hoje-compartilho-com-voc%C3%AAs-o-projeto-que-ugcPost-7261768254614892544-98_E?utm_source=share&utm_medium=member_desktop">LinkedIn</a><br><br>
 Obs: Acesse o LinkedIn para visualizar a documentação e repositórios do GitHub de front-end e back-end.
 <br>
 <br>
