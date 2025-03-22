@@ -56,7 +56,7 @@ Os projetos abaixo foram desenvolvidos para estudo e prática na área de UX/UI,
 <b>Descrição:</b> <br>
 📌  <b>Objetivo:</b> Criar um aplicativo focado em recuperação muscular e bem-estar pós-treino, oferecendo uma experiência personalizada para otimizar o descanso e a recuperação.
 <br>
-💡  <b>Contexto:</b> Desenvolvido como parte do curso de Figma “Do Zero ao Especialista”, o projeto começou com a ideia de criar uma solução para indivíduos que buscam melhorar sua recuperação após treinos intensos. Adaptado com base no aprendizado de UX/UI, o app foi desenhado para fornecer recomendações de exercícios de recuperação, nutrição, hidratação e outras práticas de bem-estar.
+💡  <b>Contexto:</b> Desenvolvido como parte do curso de Figma “PRO FIGMA | UI DESIGN com Figma do Zero ao especialista 2024” do professor e Head of designer, Lucas Marte, o projeto começou com a ideia de criar uma solução para indivíduos que buscam melhorar sua recuperação após treinos intensos. Adaptado com base no aprendizado de UX/UI, o app foi desenhado para fornecer recomendações de exercícios de recuperação, nutrição, hidratação e outras práticas de bem-estar.
 <br>
 📚  <b>Principais aprendizados:</b> Auto-layout, componentização e variações, constraints, interações, Color Styles e Style Guide, Design System, tipografia, métodos de espaçamento e
 local variables (Primary e Tokens).
